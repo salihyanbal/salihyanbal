@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![Luciko GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciko&show_icons=true)
+
+  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%luciko.luciko%2Freadme)
+
 <!--
-**Luciko/Luciko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luciko/luciko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
