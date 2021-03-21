@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![salihyanbal GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihyanbal&show_icons=true)
+![salihyanbal GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihyanbal&show_icons=true&title_color=red)
 
   ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.salihyanbal%2Freadme)
 
