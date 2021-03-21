@@ -2,6 +2,7 @@
 I'm Salih!
 
 Contact with me via these platforms! 
+
  <a href="https://www.linkedin.com/in/salih-yanbal-793916196/" target="_blank" rel="nofollow"><img alt="Salih's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:salixynbl@gmail.com" target="_blank" rel="nofollow"><img alt="Salih's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
