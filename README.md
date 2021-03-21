@@ -1,3 +1,7 @@
+[![GitHub followers](https://img.shields.io/github/followers/salihyanbal?style=social)](https://github.com/salihyanbal?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/salihyanbal?style=social)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.salihyanbal%2Freadme)
+
 ### Hi there 👋
 I'm Salih!
 
@@ -5,10 +9,6 @@ Contact with me via these platforms!
 
  <a href="https://www.linkedin.com/in/salih-yanbal-793916196/" target="_blank" rel="nofollow"><img alt="Salih's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:salixynbl@gmail.com" target="_blank" rel="nofollow"><img alt="Salih's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-[![GitHub followers](https://img.shields.io/github/followers/salihyanbal?style=social)](https://github.com/salihyanbal?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/salihyanbal?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.salihyanbal%2Freadme)
 
 ![salihyanbal GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihyanbal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
