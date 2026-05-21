@@ -32,11 +32,6 @@
 
 - Distributed systems design — scalability, replication, consistency trade-offs
 - System design patterns — consistent hashing, fan-out, rate limiting, unique ID generation
-- Concurrency internals — how locks, CAS, and memory models actually work
-- Event-driven architectures — Kafka, messaging patterns, eventual consistency
+- Concurrency — how locks, CAS, and memory models actually work
+- Event-driven architectures — Kafka, messaging patterns, CAP
 - Reading, breaking things down, and understanding the "why" behind design choices
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=salihyanbal&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyanbal&layout=compact&theme=tokyonight&hide_border=true)
