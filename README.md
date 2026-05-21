@@ -1,35 +1,42 @@
-[![GitHub followers](https://img.shields.io/github/followers/salihyanbal?style=social)](https://github.com/salihyanbal?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/salihyanbal?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.salihyanbal%2Freadme)
-### Hi there 👋
-I'm Salih!
+<h3 align="center">Hi there</h3>
 
-Contact with me via these platforms! 
+<h2 align="center">Whoami</h2>
 
- <a href="https://www.linkedin.com/in/salih-yanbal-793916196/" target="_blank" rel="nofollow"><img alt="Salih's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:salixynbl@gmail.com" target="_blank" rel="nofollow"><img alt="Salih's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<code>Backend Software Engineer</code><br>
+<code>Java / Spring Boot / Go</code><br>
+<code>Distributed systems</code>
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/salihyanbal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:salihynbl@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="email"/></a>
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyanbal&layout=compact&theme=dark)
+## Tech Stack
 
-## 🛠 Technologies & Tools 
-<img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
+<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="50"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></a>
+<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="80" height="50"/></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
+<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/></a>
+<a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="50" height="50"/></a>
+<a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="50" height="50"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
 
-<!--
-**salihyanbal/salihyanbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
 
-Here are some ideas to get you started:
+- Distributed systems design — scalability, replication, consistency trade-offs
+- System design patterns — consistent hashing, fan-out, rate limiting, unique ID generation
+- Concurrency internals — how locks, CAS, and memory models actually work
+- Event-driven architectures — Kafka, messaging patterns, eventual consistency
+- Reading, breaking things down, and understanding the "why" behind design choices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=salihyanbal&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyanbal&layout=compact&theme=tokyonight&hide_border=true)
